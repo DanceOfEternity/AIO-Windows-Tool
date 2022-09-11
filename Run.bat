@@ -47,7 +47,7 @@ echo 3) Open Toggle Tweaker (ONLY FOR WINDOWS 10!)
 echo 4) Install OgnitorenKs Toolbox (Theres a one language and its turkish)
 echo 5) Exit
 echo Thanks for using my Tool have a nice day :).
-set /p choix=What do you want? (1/2/3):
+set /p choix=What do you want? (1/2/3/4/5):
  
 if /I "%choix%"=="1" (goto :Activate)
 if /I "%choix%"=="2" (goto :Tweak)
